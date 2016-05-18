@@ -24,7 +24,6 @@
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="#">Test App</a></li>
 				<li><a href="<?= '/Users/index'?>">Home</a></li>
-				<li><a href="<?= '/Users/signinpage'?>">Sign In</a></li>
 			</ul>
 		</div>
 	</nav>
@@ -33,7 +32,7 @@
 		<div class="jumbotron">
 			<h1>Welcome to the Test</h1>
 			<p>We're going to build cool application using a MVC framework!  This application was built with the Village88 folks!  So get ready to get your ass stressed out, you will want to eventually "rm -rf /*...so get ready to lose five hours looking for ';'.  Black belt?  Ha we about to take your pants and ram code up your arse.</p>
-			 <a href="#" class="btn btn-large btn-success">Get Started</a>
+			 <a href="<?= '/Users/signinpage'?>"class="btn btn-large btn-success">Get Started</a>
 		</div>
 		<div class="row">
 			<div class="col-sm-4">

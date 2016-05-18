@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-	<title>New - Register</title>
+	<title>ADMIN ADD NEW USER</title>
+  <!-- THIS FORM IS FOR THE ADMIN BUTTON TO ADD A NEW USER -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -62,7 +63,7 @@
   <body>
 
     <div class="container">
-
+<!-- THIS FORM IS FOR THE ADMIN BUTTON TO ADD A NEW USER -->
 		<form class="form-signin">
 			<h2 class="form-signin-heading">Add a new User</h2>
 			<input type="text" class="input-block-level" placeholder="Email address">
